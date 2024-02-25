@@ -1,0 +1,24 @@
+// clients
+http://localhost/factor_apis/apis/clients/
+
+
+url                 body                           fucntion            method
+
+index  =>                                          getall              GET
+client =>          {id}                            getByid             GET 
+store =>           {name , phone , address}        insert              POST
+delete =>          {id}                            delete              POST
+
+
+
+
+// products
+
+http://localhost/factor_apis/apis/products/
+
+url                 body                           fucntion            method
+
+index  =>                                          getall              GET
+client =>          {id}                            getByid             GET 
+store =>           {name , phone , address}        insert              POST
+delete =>          {id}                            delete              POST

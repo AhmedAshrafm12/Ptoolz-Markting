@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"tests\\unit\\ApiTest::formatted_json":3,"tests\\unit\\ApiTest::email_send":3},"times":{"Warning":0.006,"tests\\unit\\ApiTest::formatted_json":0.048,"tests\\unit\\ApiTest::proessess":0.024,"tests\\unit\\ApiTest::email_send":0.028}}

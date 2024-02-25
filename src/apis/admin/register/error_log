@@ -1,0 +1,101 @@
+[27-Jun-2023 19:32:57 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 19:32:57 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 19:44:15 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 19:44:15 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:25:20 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 14
+[27-Jun-2023 20:25:42 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 14
+[27-Jun-2023 20:36:14 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 10
+[27-Jun-2023 20:36:39 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/includes/init.php on line 22
+[27-Jun-2023 20:36:39 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 10
+[27-Jun-2023 20:36:54 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/includes/init.php on line 22
+[27-Jun-2023 20:37:57 Asia/Riyadh] PHP Notice:  Undefined index: HTTP_ACCESS_CONTROL_REQUEST_HEADERS in /home/nashatak/public_html/pureplast.net/apis/includes/init.php on line 22
+[27-Jun-2023 20:37:57 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:37:57 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:38:29 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:38:29 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:40:50 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:40:50 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:41:17 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:41:17 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:42:13 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:42:13 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:42:40 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:42:40 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 20:43:40 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 20:43:40 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:28:56 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:28:56 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:31:56 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:31:56 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:33:09 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:33:09 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:33:54 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:33:54 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:35:01 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:35:01 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:35:41 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:35:41 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:36:23 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:36:23 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:36:27 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:36:27 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:37:36 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:37:36 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:37:52 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:37:52 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:37:59 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:37:59 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:38:41 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:38:41 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:39:18 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:39:18 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:41:01 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:41:01 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:41:43 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:41:43 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:41:53 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:41:53 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:42:04 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:42:04 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:42:40 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:42:40 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:42:47 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:42:47 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:43:56 Asia/Riyadh] PHP Notice:  Undefined index: operacion in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:43:56 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:43:56 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:44:09 Asia/Riyadh] PHP Notice:  Trying to access array offset on value of type null in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:44:09 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:44:09 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:44:39 Asia/Riyadh] PHP Notice:  Undefined index: operacion in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:44:39 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:44:39 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:45:11 Asia/Riyadh] PHP Notice:  Undefined index: operacion in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:45:11 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:45:11 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:45:55 Asia/Riyadh] PHP Notice:  Undefined index: operacion in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:45:55 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:45:55 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:46:07 Asia/Riyadh] PHP Notice:  Undefined index: operacion in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:46:07 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:46:07 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:46:45 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:46:45 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:46:45 Asia/Riyadh] PHP Notice:  Undefined index: password in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:47:31 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\admin::login(), 0 passed in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 12 and exactly 1 expected in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php:17
+Stack trace:
+#0 /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php(12): modules\admin->login()
+#1 {main}
+  thrown in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 17
+[27-Jun-2023 21:47:37 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 11
+[27-Jun-2023 21:47:37 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\admin::login(), 0 passed in /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php on line 12 and exactly 1 expected in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php:17
+Stack trace:
+#0 /home/nashatak/public_html/pureplast.net/apis/admin/register/login.php(12): modules\admin->login()
+#1 {main}
+  thrown in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 17
+[27-Jun-2023 21:48:01 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:48:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:48:42 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 20
+[27-Jun-2023 21:49:07 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:49:24 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 19
+[27-Jun-2023 21:49:24 Asia/Riyadh] PHP Notice:  Undefined index: username in /home/nashatak/public_html/pureplast.net/apis/modules/admin.php on line 22
